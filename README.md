@@ -1,5 +1,4 @@
-Examples of using JSDoc annotations to improve type autocomplete in JavaScript
-
+Examples of using JSDoc annotations to improve type autocomplete in JavaScript.
 
 ## References
 - https://ricostacruz.com/til/typescript-jsdoc

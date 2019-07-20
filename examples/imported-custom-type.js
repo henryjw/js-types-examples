@@ -2,7 +2,6 @@
  * @typedef { import('./types').User } User
 */
 
-
 /**
  * @param {User} user
  */

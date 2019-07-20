@@ -12,6 +12,6 @@ sendResponse(app)
  * @param {object} body
  */
 function sendResponse(res, body) {
-    // res properties should be auto-completed
+    // res properties should be autocompleted
     res.send(body)
 }
